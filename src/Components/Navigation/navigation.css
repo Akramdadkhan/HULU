@@ -1,5 +1,7 @@
 .navigation{
-    display: flex;
+  
+   
+display:  flex;
     color: white;
     /* overflow-x: scroll; */
     padding: 10px;
@@ -21,3 +23,4 @@
     opacity: 1;
     transform: scale(1.2);
 }
+
